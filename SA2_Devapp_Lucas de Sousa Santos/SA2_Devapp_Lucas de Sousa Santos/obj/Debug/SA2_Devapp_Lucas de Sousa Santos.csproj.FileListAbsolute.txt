@@ -1,0 +1,6 @@
+C:\Users\Cliente\Desktop\Programação de aplicativos\SA2_Devapp_Lucas de Sousa Santos\SA2_Devapp_Lucas de Sousa Santos\bin\Debug\SA2_Devapp_Lucas de Sousa Santos.exe.config
+C:\Users\Cliente\Desktop\Programação de aplicativos\SA2_Devapp_Lucas de Sousa Santos\SA2_Devapp_Lucas de Sousa Santos\bin\Debug\SA2_Devapp_Lucas de Sousa Santos.exe
+C:\Users\Cliente\Desktop\Programação de aplicativos\SA2_Devapp_Lucas de Sousa Santos\SA2_Devapp_Lucas de Sousa Santos\bin\Debug\SA2_Devapp_Lucas de Sousa Santos.pdb
+C:\Users\Cliente\Desktop\Programação de aplicativos\SA2_Devapp_Lucas de Sousa Santos\SA2_Devapp_Lucas de Sousa Santos\obj\Debug\SA2_Devapp_Lucas de Sousa Santos.csprojResolveAssemblyReference.cache
+C:\Users\Cliente\Desktop\Programação de aplicativos\SA2_Devapp_Lucas de Sousa Santos\SA2_Devapp_Lucas de Sousa Santos\obj\Debug\SA2_Devapp_Lucas de Sousa Santos.exe
+C:\Users\Cliente\Desktop\Programação de aplicativos\SA2_Devapp_Lucas de Sousa Santos\SA2_Devapp_Lucas de Sousa Santos\obj\Debug\SA2_Devapp_Lucas de Sousa Santos.pdb
