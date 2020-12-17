@@ -435,9 +435,9 @@ namespace SA2_Devapp_Lucas_de_Sousa_Santos
 
                     receita = receitaordenada;
 
+                    Console.WriteLine("Receita excluída");
                     foreach (Receita a in receitaordenada)
                     {
-                        Console.WriteLine("Receita excluída");
                         Console.WriteLine("");
                         Console.WriteLine(a);
                     }
@@ -454,7 +454,7 @@ namespace SA2_Devapp_Lucas_de_Sousa_Santos
                     {
                         Console.WriteLine(a);
                     }
-                    
+                    Console.ReadKey();
                 }
             }               
         }                
